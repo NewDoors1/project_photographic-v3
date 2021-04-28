@@ -1,6 +1,6 @@
-## <text-align center> project_photographic-v3
+# <text-align center> project_photographic-v3
 
-# O que foi feito e definido: 
+### O que foi feito e definido: 
 
 • Desing está completo
 
@@ -10,7 +10,7 @@
 
 • Conteúdo e Empresa
 
-# O que há de se fazer: 
+### O que há de se fazer: 
 
 • Ajustes no site (Edy e Renann)
 
