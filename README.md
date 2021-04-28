@@ -1,22 +1,21 @@
 # project_photographic-v3
 
-<h1> O que foi feito e definido: <h1>
+# O que foi feito e definido: 
 
-<p>
 • Desing está completo
 
 • Estrutura do site completa
 
 • Tema
 
-• Conteúdo e Empresa </p>
+• Conteúdo e Empresa
 
-<h1> O que há de se fazer: <h1>
-<p>
+# O que há de se fazer: 
+
 • Ajustes no site (Edy e Renann)
 
 • Banco de Dados (Tiago e Vinicius)
 
 • Hospedagem do Site (Robson)
 
-• Conteúdo das Páginas (Lukinhas (caso necessitar de ajuda, avisar)) </p>
+• Conteúdo das Páginas (Lukinhas (caso necessitar de ajuda, avisar))
